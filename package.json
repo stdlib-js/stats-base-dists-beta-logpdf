@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/stats-base-dists-beta-logpdf",
+  "version": "0.0.0",
+  "description": "Beta distribution logarithm of probability density function (PDF).",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-beta-logpdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "probability",
+    "prob",
+    "pdf",
+    "logpdf",
+    "natural",
+    "logarithm",
+    "log",
+    "ln",
+    "beta",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
