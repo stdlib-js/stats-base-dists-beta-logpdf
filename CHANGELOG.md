@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-07)
+## Unreleased (2025-02-08)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3427](https://github.com/stdlib-js/stdlib/issues/3427)
+[#3427](https://github.com/stdlib-js/stdlib/issues/3427), [#5091](https://github.com/stdlib-js/stdlib/issues/5091)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`556ec54`](https://github.com/stdlib-js/stdlib/commit/556ec541cac82efa3eeec2693b7a8daa44ee8cad) - **chore:** refactor according to commit comments [(#5098)](https://github.com/stdlib-js/stdlib/pull/5098) _(by Saurabh Singh, Philipp Burckhardt)_
 -   [`b1f7e5c`](https://github.com/stdlib-js/stdlib/commit/b1f7e5c17b39382bd4b5246792ee6caa04449f80) - **feat:** add C implementation for `stats/base/dists/beta/logpdf` [(#4050)](https://github.com/stdlib-js/stdlib/pull/4050) _(by Neeraj Pathak, stdlib-bot)_
 -   [`9394549`](https://github.com/stdlib-js/stdlib/commit/939454926b745326a5b14bcd0924a0526baa93da) - **bench:** refactor random number generation in `stats/base/dists/beta` [(#4837)](https://github.com/stdlib-js/stdlib/pull/4837) _(by Karan Anand)_
 
@@ -47,10 +48,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Neeraj Pathak
+-   Philipp Burckhardt
+-   Saurabh Singh
 
 </section>
 
