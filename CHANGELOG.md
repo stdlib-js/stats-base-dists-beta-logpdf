@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-09-07)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
@@ -38,8 +38,8 @@ A total of 2 issues were closed in this release:
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
--   [`3ba6db7`](https://github.com/stdlib-js/stdlib/commit/3ba6db72e6cb7e636d62c71e73a283f69beafdca) - **bench:** update random value generation [(#6811)](https://github.com/stdlib-js/stdlib/pull/6811) _(by Harsh)_
--   [`70429b3`](https://github.com/stdlib-js/stdlib/commit/70429b300e75b81b55f1192e0dfc6ab7f5ae9dc1) - **docs:** replace manual `for` loop in examples [(#6792)](https://github.com/stdlib-js/stdlib/pull/6792) _(by Harsh)_
+-   [`3ba6db7`](https://github.com/stdlib-js/stdlib/commit/3ba6db72e6cb7e636d62c71e73a283f69beafdca) - **bench:** update random value generation [(#6811)](https://github.com/stdlib-js/stdlib/pull/6811) _(by Harsh Yadav)_
+-   [`70429b3`](https://github.com/stdlib-js/stdlib/commit/70429b300e75b81b55f1192e0dfc6ab7f5ae9dc1) - **docs:** replace manual `for` loop in examples [(#6792)](https://github.com/stdlib-js/stdlib/pull/6792) _(by Harsh Yadav)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`556ec54`](https://github.com/stdlib-js/stdlib/commit/556ec541cac82efa3eeec2693b7a8daa44ee8cad) - **chore:** refactor according to commit comments [(#5098)](https://github.com/stdlib-js/stdlib/pull/5098) _(by Saurabh Singh, Philipp Burckhardt)_
@@ -58,7 +58,7 @@ A total of 2 issues were closed in this release:
 
 A total of 5 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
