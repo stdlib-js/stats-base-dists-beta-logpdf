@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e10fdb6`](https://github.com/stdlib-js/stdlib/commit/e10fdb6b0fdd46f591551e020a93abac67f27978) - **test:** migrate `stats/base/dists/beta/logpdf` to ULP-based assertions [(#15656)](https://github.com/stdlib-js/stdlib/pull/15656) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
