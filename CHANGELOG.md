@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-30)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`72cf0ed`](https://github.com/stdlib-js/stdlib/commit/72cf0edb51bfc20fe9b644fb64de03242f01966d) - **docs:** fix incorrect return annotations [(#15830)](https://github.com/stdlib-js/stdlib/pull/15830) _(by anee3)_
 -   [`e10fdb6`](https://github.com/stdlib-js/stdlib/commit/e10fdb6b0fdd46f591551e020a93abac67f27978) - **test:** migrate `stats/base/dists/beta/logpdf` to ULP-based assertions [(#15656)](https://github.com/stdlib-js/stdlib/pull/15656) _(by Athan Reines)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   anee3
 
 </section>
 
